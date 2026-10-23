@@ -1,0 +1,90 @@
+[
+  {
+    "id": "w1",
+    "name": "Alun-Alun Kota Malang",
+    "category": "Wisata",
+    "image": "assets/images/alun_alun.jpg",
+    "shortDesc": "Taman kota ikonik dengan air mancur dan pohon trembesi besar",
+    "fullDesc": "Alun-Alun Kota Malang adalah ruang publik di pusat kota yang menjadi tempat favorit warga untuk bersantai, berolahraga, dan berkumpul di sore hari. Dikelilingi oleh pohon-pohon besar yang teduh, air mancur, serta lampu hias yang indah saat malam hari, alun-alun ini juga dekat dengan Masjid Jami dan pusat perbelanjaan.",
+    "location": "Jl. Merdeka, Kiduldalem, Klojen, Kota Malang",
+    "rating": 4.6,
+    "openHours": "24 jam"
+  },
+  {
+    "id": "w2",
+    "name": "Jatim Park 2",
+    "category": "Wisata",
+    "image": "assets/images/jatim_park_2.jpg",
+    "shortDesc": "Taman rekreasi edukasi dengan kebun binatang dan museum satwa",
+    "fullDesc": "Jatim Park 2 memadukan konsep wisata edukasi dan hiburan, terdiri dari Batu Secret Zoo dan Museum Satwa. Pengunjung dapat melihat ratusan spesies hewan dari berbagai belahan dunia sekaligus belajar tentang konservasi satwa dalam suasana yang nyaman dan rapi.",
+    "location": "Jl. Oro-Oro Ombo, Batu, Malang",
+    "rating": 4.7,
+    "openHours": "08.30 - 17.00"
+  },
+  {
+    "id": "w3",
+    "name": "Kampung Warna-Warni Jodipan",
+    "category": "Wisata",
+    "image": "assets/images/kampung_jodipan.jpg",
+    "shortDesc": "Permukiman padat yang disulap jadi destinasi foto penuh warna",
+    "fullDesc": "Kampung Warna-Warni Jodipan merupakan hasil revitalisasi permukiman tepi sungai Brantas yang kini dicat warna-warni cerah. Spot ini populer untuk berfoto, lengkap dengan jembatan kaca penghubung ke Kampung Tridi di seberangnya.",
+    "location": "Jodipan, Kec. Blimbing, Kota Malang",
+    "rating": 4.4,
+    "openHours": "08.00 - 20.00"
+  },
+  {
+    "id": "w4",
+    "name": "Coban Rondo",
+    "category": "Wisata",
+    "image": "assets/images/coban_rondo.jpg",
+    "shortDesc": "Air terjun alami di kaki Gunung Panderman yang sejuk dan asri",
+    "fullDesc": "Coban Rondo adalah air terjun setinggi sekitar 60 meter. Selain menikmati air terjun, pengunjung bisa berkeliling area taman, flying fox, dan berbagai spot foto di kawasan wisata ini.",
+    "location": "Pandesari, Pujon, Kabupaten Malang",
+    "rating": 4.5,
+    "openHours": "07.00 - 17.00"
+  },
+  {
+    "id": "k1",
+    "name": "Bakso President",
+    "category": "Kuliner",
+    "image": "assets/images/bakso_president.jpg",
+    "shortDesc": "Bakso legendaris Malang dengan isian lengkap dan kuah gurih",
+    "fullDesc": "Bakso President adalah salah satu kuliner legendaris di Kota Malang yang sudah berdiri sejak lama. Menyajikan berbagai varian bakso mulai dari bakso halus, kasar, hingga bakso telur, dengan kuah kaldu gurih khas yang selalu ramai pengunjung setiap harinya.",
+    "location": "Jl. Batanghari No.5, Oro-oro Dowo, Kota Malang",
+    "rating": 4.5,
+    "openHours": "09.00 - 21.00"
+  },
+  {
+    "id": "k2",
+    "name": "Rawon Nguling Malang",
+    "category": "Kuliner",
+    "image": "assets/images/rawon_nguling.jpg",
+    "shortDesc": "Rawon daging empuk dengan kuah hitam khas rempah kluwek",
+    "fullDesc": "Rawon Nguling menyajikan rawon dengan kuah hitam pekat dari kluwek yang kaya rempah, dipadukan daging sapi empuk, tauge pendek, dan sambal yang menggugah selera. Cocok dinikmati dengan nasi hangat dan telur asin.",
+    "location": "Jl. Soekarno Hatta, Kota Malang",
+    "rating": 4.3,
+    "openHours": "10.00 - 22.00"
+  },
+  {
+    "id": "k3",
+    "name": "Angsle Pasar Besar",
+    "category": "Kuliner",
+    "image": "assets/images/angsle_pasar_besar.jpg",
+    "shortDesc": "Minuman hangat tradisional dengan kacang hijau, ketan, dan roti",
+    "fullDesc": "Angsle adalah minuman hangat khas Malang berisi kacang hijau, ketan putih, roti tawar, dan pacar cina yang disiram kuah santan jahe. Cocok dinikmati saat malam hari karena hawa Malang yang sejuk.",
+    "location": "Pasar Besar, Kota Malang",
+    "rating": 4.2,
+    "openHours": "17.00 - 23.00"
+  },
+  {
+    "id": "k4",
+    "name": "Mie Pangsit Gloria",
+    "category": "Kuliner",
+    "image": "assets/images/mie_pangsit_gloria.jpg",
+    "shortDesc": "Mie ayam pangsit legendaris dengan tekstur mie yang kenyal",
+    "fullDesc": "Mie Pangsit Gloria dikenal dengan mie ayamnya yang kenyal, pangsit goreng renyah, serta berisi daging ayam cincang. Tempat ini sudah menjadi langganan warga Malang lintas generasi.",
+    "location": "Jl. Zainul Arifin, Kota Malang",
+    "rating": 4.4,
+    "openHours": "08.00 - 20.00"
+  }
+]
